@@ -1,5 +1,5 @@
 # habfract.github.io
-Welcome to Habit/Fract, the innovative habit tracking application that revolutionizes the way you connect daily actions to your greatest ambitions. Born from the need to visualize the journey from grand ideas to the smallest units of habit (and back again), HabitFract offers a unique visualisation of your daily behaviours that helps you see the bigger picture while staying grounded in day-to-day progress.
+Welcome to Habit/Fract, the innovative habit tracking application that revolutionizes the way you connect daily actions to your greatest ambitions. Born from the need to visualize the journey from grand ideas to the smallest units of habit (and back again), Habit/Fract offers a unique visualisation of your daily behaviours that helps you see the bigger picture while staying grounded in day-to-day progress.
 
 With HabitFract, you will be able to:
 

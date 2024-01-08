@@ -10,3 +10,5 @@ With HabitFract, you will be able to:
 - Create private channels with other agents to share progress with, remain accountable to, or help mentor others.
 
 Dive into the world of fractal habit tracking and join us on a quest to make consistent progress towards our goals. Whether you're a visionary thinker or a meticulous planner, Habit/Fract is your companion in the journey of self-improvement and achievement.
+
+Active development of an MVP is underway, so stay tuned!

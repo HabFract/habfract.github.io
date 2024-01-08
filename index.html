@@ -2,10 +2,14 @@
 <html lang="en">
 <head>
       <meta charset="UTF-8">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Habit/Fract</title>
       <style>
           body {
+              color: #fefefe;
               margin: 0;
               height: 100vh;
               background: radial-gradient(circle, #3d3443, #222222);
@@ -17,10 +21,21 @@
               display: flex;
               justify-content: flex-end;
               padding: 1rem;
+              font-weight: 400;
+              font-size: 2rem;
+          }
+
+          footer {
+            position: fixed;
+            bottom: 0;
+            text-align: center;
+            left: 0;
+            right: 0;
           }
 
           .logo {
               width: 450px;
+              height: 450px;
               object-fit: cover;
               background: url('logo-no-bg.png') no-repeat center center;
               background-size: contain;
